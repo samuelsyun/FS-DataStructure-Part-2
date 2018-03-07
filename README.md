@@ -1,4 +1,6 @@
-# Test-first Data Structures
+# Workshop from Fullstack Code of Academy
+
+## Test-first Data Structures
 
 *NOTE: you are encouraged to follow the workshop text for this repo, which covers the following in greater detail.*
 
