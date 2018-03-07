@@ -1,4 +1,4 @@
-
+'use strict'
 
 let pathExists= function (graph, start, end){
   let visited = {};
